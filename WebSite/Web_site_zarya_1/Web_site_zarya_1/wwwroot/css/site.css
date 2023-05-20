@@ -20,3 +20,29 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.imgLogo {
+    width: 100%;
+    height: auto;
+    max-width: 30px;
+    max-height: 30px;
+    margin-left: 100px;
+}
+
+.LabelLogo {
+    margin-left: 5px;
+}
+
+.imgPersonalArea {
+    width: 100%;
+    height: auto;
+    max-width: 30px;
+    max-height: 30px;
+    margin-right: 25px;
+}
+
+.backgroundImg {
+    background-image: url('/img/135750-zvezda-kosmicheskoe_prostranstvo-elektrik-nebo-mlechnyj_put-3840x2160.jpg');
+    background-size:cover;
+    margin: 0;
+}
