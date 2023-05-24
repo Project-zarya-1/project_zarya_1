@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets\\img\\Logo.png"
     },
     {
+      "Id": "D:\\project_zarya_1\\WebSite\\Web_site_zarya_1\\Web_site_zarya_1\\wwwroot\\img\\pngegg.png",
+      "PackagePath": "staticwebassets\\img\\pngegg.png"
+    },
+    {
+      "Id": "D:\\project_zarya_1\\WebSite\\Web_site_zarya_1\\Web_site_zarya_1\\wwwroot\\img\\pngwing.com.png",
+      "PackagePath": "staticwebassets\\img\\pngwing.com.png"
+    },
+    {
       "Id": "D:\\project_zarya_1\\WebSite\\Web_site_zarya_1\\Web_site_zarya_1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
